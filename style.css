@@ -8,11 +8,12 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
+  background-color: #5b84c4; /* Blue */
 }
 
 /* Header styles */
 header {
-  background-color: #d35400; 
+  background-color: #d35400; /* Orange */
   color: white;
   text-align: center;
   padding: 30px 20px;
@@ -35,10 +36,10 @@ section {
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
-  border-left: 5px solid #d35400; 
+  border-left: 5px solid #d35400; /* Orange */
 }
 section h2 {
-  color: #d35400; 
+  color: #d35400; /* Orange */
   margin-top: 0;
   border-bottom: 2px solid #ccc;
   padding-bottom: 10px;
@@ -48,7 +49,7 @@ section h2 {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #d35400; 
+  background-color: #d35400; /* Orange */
   color: white;
   border-radius: 8px;
   margin-top: 30px;
